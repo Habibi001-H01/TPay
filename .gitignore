@@ -1,0 +1,6 @@
+﻿node_modules/
+.env
+*.zip
+*.rar
+assets/uploads/
+wa-engine/sessions/

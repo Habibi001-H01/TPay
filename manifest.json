@@ -1,0 +1,16 @@
+{
+  "name": "TPay — Pengingat Tagihan Otomatis",
+  "short_name": "TPay",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#10b981",
+  "description": "Sistem pengingat jatuh tempo dan pencairan tagihan otomatis via WhatsApp.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10473/10473299.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
